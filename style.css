@@ -1,0 +1,21 @@
+html {
+    background-image: url("Love-Background-Wallpaper-HD.jpg");
+}
+h1{
+    font-family: "Comic Sans MS", serif;
+    font-size: 80px;
+    color: coral;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+p{
+    font-family: "Comic Sans MS", serif;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 1px;
+}
+img{
+    margin-top: 75px;
+    margin-left: 25px;
+}
